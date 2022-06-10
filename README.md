@@ -1,7 +1,7 @@
 # Practica carrito con template y fragment
 
 #Fuente BlueWeb 
-#Alumno juan molna
+#Alumno juan molina
 
 `html
     <template id="template">
