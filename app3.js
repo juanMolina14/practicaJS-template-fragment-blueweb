@@ -3,10 +3,11 @@ const template = document.querySelector("#template");
 const fragment = document.createDocumentFragment();
 const btnBotones = document.querySelectorAll('.card .btn');
 
+
 const carritoObjeto = {};
 
 const agregarAlCarrito = (e) =>{
-    console.log(e.target.dataset.fruta)
+    //console.log(e.target.dataset.fruta)
 
     const producto = {
         titulo : e.target.dataset.fruta,
